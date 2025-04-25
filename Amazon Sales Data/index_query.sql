@@ -1,0 +1,1 @@
+create index idx_price on amazon_sales_data(price);
